@@ -1,0 +1,74 @@
+{
+"categories":[
+{
+"id":"categoryA",
+"name":"Coffees",
+"products":[
+"productA",
+"productC",
+"productE",
+"productF"
+]
+},
+{
+"id":"categoryB",
+"name":"Extra Coffees",
+"products":[
+"productB",
+"productG",
+"productA"
+]
+},
+{
+"id":"categoryC",
+"name":"Small Coffees",
+"products":[
+"productA",
+"productG",
+"productE"
+]
+}
+],
+"products":[
+{
+"id":"productA",
+"name":"Coffe A",
+"price":350
+},
+{
+"id":"productB",
+"name":"Coffe B",
+"price":450
+},
+{
+"id":"productC",
+"name":"Coffe C",
+"price":150
+},
+{
+"id":"productD",
+"name":"Coffe D",
+"price":250
+},
+{
+"id":"productE",
+"name":"Coffe E",
+"price":500
+},
+{
+"id":"productF",
+"name":"Coffe F",
+"price":325
+},
+{
+"id":"productG",
+"name":"Coffe G",
+"price":315
+},
+{
+"id":"productH",
+"name":"Coffe H",
+"price":350
+}
+]
+}
